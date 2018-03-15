@@ -6,3 +6,4 @@ Algorithms in C++
 + String Reverse
 + Bubble Sort
 + Insertion Sort
++ Selection Sort
