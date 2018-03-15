@@ -7,3 +7,4 @@ Algorithms in C++
 + Bubble Sort
 + Insertion Sort
 + Selection Sort
++ Factorial Algorithm
