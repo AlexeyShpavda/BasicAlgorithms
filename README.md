@@ -5,3 +5,4 @@ Algorithms in C++
 + Binary Search
 + String Reverse
 + Bubble Sort
++ Insertion Sort
