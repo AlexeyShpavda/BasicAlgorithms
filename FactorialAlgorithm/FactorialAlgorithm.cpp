@@ -12,6 +12,12 @@ int main()
 
 int lookForFactorial(int number)
 {
-	if (number == 0) return 1;
-	return number * lookForFactorial(number - 1);
+	int intermediateResult = 1;
+	for (int factor = 2; factor <= number; factor++) {
+		intermediateResult = intermediateResult * factor;
+	}
+	return intermediateResult;
+
+	//if (number == 0) return 1;
+	//return number * lookForFactorial(number - 1);
 }
