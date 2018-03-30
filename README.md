@@ -8,3 +8,4 @@ Algorithms in C++
 + Insertion Sort
 + Selection Sort
 + Factorial Algorithm
++ Sentinel Linear Search
