@@ -9,3 +9,4 @@ Algorithms in C++
 + Selection Sort
 + Factorial Algorithm
 + Sentinel Linear Search
++ Recursive Linear Search
