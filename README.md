@@ -11,3 +11,4 @@ Algorithms in C++
 + Sentinel Linear Search
 + Recursive Linear Search
 + Modified Binary Search Algorithm
++ Quick sort
